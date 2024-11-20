@@ -11,3 +11,10 @@ tensorflow-intel == 2.13.0
 typing-extensions == 4.5.0
 Flask == 3.0.2
 Werkzeug == 3.0.1
+torchaudio == 2.5.1
+torch == 2.5.1
+soundfile == 0.12.1
+moviepy == 1.0.3
+flask_cors == 5.0.0
+deepface == 0.0.93
+transformers == 4.46.2
